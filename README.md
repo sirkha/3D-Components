@@ -22,7 +22,7 @@ Thanks to the following open source software packages:
 [1]: http://adafruit.com "Adafruit Industries"
 [2]: http://arduino.cc "Arduino"
 [3]: http://blender.org "Blender"
-[4]: http://freecad.org "FreeCAD
+[4]: http://freecad.org "FreeCAD"
 [5]: http://openscad.org "OpenSCAD"
 [6]: http://inkscape.org "Inkscape"
 [7]: https://creativecommons.org/licenses/by-sa/2.0/legalcode "CC-BY-SA"
